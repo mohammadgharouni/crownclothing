@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+this is training project for react js course on udemy website
+course link: https://www.udemy.com/course/complete-react-developer-zero-to-mastery/ <br/>
+you can visit demo on (since project hosted on firebase i suggest you to use vpn for fully loading): https://crwn-db-12345.web.app/ 
 
 ## Available Scripts
 
